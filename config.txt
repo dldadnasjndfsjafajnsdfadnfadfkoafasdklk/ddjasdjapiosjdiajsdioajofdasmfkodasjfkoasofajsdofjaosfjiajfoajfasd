@@ -1,6 +1,6 @@
-token=NDk4OTUwMDc1MTA0NDkzNTY4.Dp4cKA.h6TpRiwyaAgGhpV4ucs5fUrRgtE
-owner=457174878530043907
-prefix=rf
-game=order.done
+token=NTAwNzM1NjI0NDQyMTUwOTIz.DqPKEA.USFBQxETraMyKiyzgbCKXan7Eqk
+owner=337398843458977792
+prefix=Mi
+status=INVISIBLE
 stayinchannel=true
 songinstatus=false
